@@ -7,6 +7,7 @@ export * from "./adapters/openhands/httpGateway.js";
 export * from "./adapters/opendesign/index.js";
 export * from "./adapters/opendesign/httpGateway.js";
 export * from "./platform/vercel.js";
+export * from "./platform/vercelFunction.js";
 export * from "./service/index.js";
 export * from "./api/index.js";
 export * from "./persistence/postgresEventStore.js";
