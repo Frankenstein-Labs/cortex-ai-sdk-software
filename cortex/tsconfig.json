@@ -11,5 +11,5 @@
     "outDir": "dist",
     "rootDir": "."
   },
-  "include": ["contracts/**/*.ts", "orchestrator/**/*.ts", "runtime/**/*.ts", "adapters/**/*.ts", "platform/**/*.ts", "service/**/*.ts", "api/**/*.ts", "tests/**/*.ts", "index.ts"]
+  "include": ["contracts/**/*.ts", "orchestrator/**/*.ts", "runtime/**/*.ts", "adapters/**/*.ts", "platform/**/*.ts", "service/**/*.ts", "api/**/*.ts", "persistence/**/*.ts", "workflows/**/*.ts", "tests/**/*.ts", "index.ts"]
 }

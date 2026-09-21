@@ -9,3 +9,5 @@ export * from "./adapters/opendesign/httpGateway.js";
 export * from "./platform/vercel.js";
 export * from "./service/index.js";
 export * from "./api/index.js";
+export * from "./persistence/postgresEventStore.js";
+export * from "./workflows/index.js";
