@@ -46,6 +46,11 @@ export interface TaskRequest {
   readonly createdAt: string;
 }
 
+export interface CreateTaskInput {
+  readonly prompt: string;
+  readonly workspaceId: WorkspaceId;
+}
+
 export interface RouteSpec {
   readonly path: string;
   readonly purpose: string;
